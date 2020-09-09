@@ -14,23 +14,23 @@
 </p>
 
 ### Module 1 - Fundamentals
-##### Challenge 1
-##### Challenge 2
+#### Challenge 1
+#### Challenge 2
 #### Final Challenge
 
 ### Module 2 - API Development
-##### Challenge 1
-##### Challenge 2
+#### Challenge 1
+#### Challenge 2
 #### Final Challenge
 
 ### Module 3 - FrontEnd with React
-##### Challenge 1
-##### Challenge 2
+#### Challenge 1
+#### Challenge 2
 #### Final Challenge
 
 ### Module 4 - Data persistence, code versioning and deployment
-##### Challenge 1
-##### Challenge 2
+#### Challenge 1
+#### Challenge 2
 #### Final Challenge
 
 ### Final Challenge
